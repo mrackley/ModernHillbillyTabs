@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "modern-hillybilly-tabs-client-side-solution",
+    "id": "5186753a-22b6-4eb4-ad3f-ab096a2f83a9",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/modern-hillybilly-tabs.sppkg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.0",
+    "libraryName": "modern-hillybilly-tabs",
+    "libraryId": "5186753a-22b6-4eb4-ad3f-ab096a2f83a9",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
