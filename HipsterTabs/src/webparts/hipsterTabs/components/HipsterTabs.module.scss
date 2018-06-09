@@ -1,0 +1,17 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.hipsterTabs {
+  
+  .instructions {
+    color: $ms-color-neutralQuaternary;
+    display: inline-block;
+    padding-top: 12px;
+  }
+
+  .hidden {
+    /*used instead of display none to prevent width changes in other webparts that causes some flashing as they redraw once shown*/
+    position: absolute;
+    left: -9999px;
+  }
+
+}

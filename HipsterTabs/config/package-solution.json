@@ -1,0 +1,14 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Hipster Tabs",
+    "id": "d1b56760-191d-4d95-bc04-ad71cd220e95",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "iconPath": "AppIcon.png"
+  },
+  "paths": {
+    "zippedPackage": "solution/hipster-tabs.sppkg"
+  }
+}

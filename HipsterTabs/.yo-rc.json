@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "hipster-tabs",
+    "libraryId": "d1b56760-191d-4d95-bc04-ad71cd220e95",
+    "environment": "spo"
+  }
+}
