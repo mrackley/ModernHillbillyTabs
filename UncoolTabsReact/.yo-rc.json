@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.0",
+    "libraryName": "uncool-tabs-in-react",
+    "libraryId": "17e3efa0-8a32-4861-baa5-5c8b1e40b393",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

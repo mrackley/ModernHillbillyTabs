@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "uncool-tabs-in-react-client-side-solution",
+    "id": "17e3efa0-8a32-4861-baa5-5c8b1e40b393",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/uncool-tabs-in-react.sppkg"
+  }
+}
